@@ -176,13 +176,6 @@ h2 {
 }
 
 
-@media (max-width: 450px) {
-    .event{
-        height: 900px;
-        background-color: #ffffff;
-
-}
-
 .event-h1text{
     padding-top: 90px;
 }
