@@ -179,10 +179,10 @@ h2 {
 }
 .arrow-event{
       bottom: 0;
-    width: 100%;
+    left: 49%;
     position: absolute;
     padding-top: 20px;
-    text-align: center;
+    
 }
 .event h2{
     padding-top: 100px;
@@ -217,7 +217,9 @@ h2 {
     padding: 160px 20px 20px;
 }
 .arrow-about{
-    text-align: center;
+       bottom: 0;
+    left: 49%;
+    position: absolute;
 
 }
 .info{
