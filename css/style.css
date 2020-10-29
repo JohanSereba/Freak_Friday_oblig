@@ -178,6 +178,9 @@ h2 {
     padding-top: 90px;
 }
 .arrow-event{
+        bottom: 0;
+    width: 100%;
+    position: absolute;
     padding-top: 20px;
     text-align: center;
 }
