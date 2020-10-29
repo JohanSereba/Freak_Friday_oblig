@@ -179,9 +179,7 @@ h2 {
 @media (max-width: 1024px) {
     .event{
         height: 900px;
-        background-color: #ffffff;
-
-    }
+       }
     
 }
 
